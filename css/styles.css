@@ -10,6 +10,11 @@
 
 }
 
+/* remover espaço branco lateral */
+html, body{
+    overflow-x: hidden !important ;
+}
+
 h1, h2, h3, p, a, span{
     color: var(--cor-da-letra);
     background-color: var(--backgorund-color2);
