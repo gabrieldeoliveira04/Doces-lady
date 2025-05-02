@@ -1,3 +1,9 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+  
+
+
 :root{
     --background-color: #EFD9D5;
     --backgorund-color2: #A78271;
@@ -122,4 +128,10 @@ header a{
         width: 30%;
     }
 }
+
+img, .imagem-capa, section, div {
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+  
 
