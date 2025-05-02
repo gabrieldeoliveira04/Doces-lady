@@ -80,6 +80,11 @@ header a {
     background-color: var(--background-color);
 }
 
+.footer p{
+    margin-bottom: 1.5rem;
+    align-items: left;
+
+}
 
 /* media queries */
 
